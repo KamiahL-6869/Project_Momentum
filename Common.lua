@@ -1,3 +1,4 @@
 -- Stores commonly used functions globally
-getgenv().RunService = game:GetService'RunService';
-getgenv().ContextActionService = game:GetService'ContextActionService';
+local RunService = game:GetService("RunService");
+local ContextActionService = game:GetService("ContextActionService");
+local StartGui = game:StarterGui("StarterGui")

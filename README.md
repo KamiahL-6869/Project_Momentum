@@ -1,18 +1,19 @@
---------------------------------------------------------------
 ### [Project: Momentum] ###
---------------------------------------------------------------
+---
+# Description
+
 Codes for roblox server: Project: Momentum. This is a TEST.  
 This file contains code, pseudos, and other brainstorms for an ongoing project: Project Momentum.
---------------------------------------------------------------
+---
 Developers: @Kamsapphire12, @Prodigy
 IG: @kamsapphire12, @prodigyishimfr
---------------------------------------------------------------
-### Roles ###
---------------------------------------------------------------
+---
+# Roles 
+
 Coding & Mechanics: @Kamsapphire12
 Music, Background, & Design: @Prodigy
---------------------------------------------------------------
-### Overview ###
+---
+# Overview and Setup
 --------------------------------------------------------------
 [Project: Momentum] is a public platformer-based game for all players. 
 Rating: E
